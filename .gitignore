@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.venv/
+.smoke-venv/
+build/
+dist/
+*.whl
+*.tar.gz
+*.zip
+distpeek-report.json
+distpeek-report.md
